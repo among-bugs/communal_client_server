@@ -1,0 +1,5 @@
+{
+    "serverPort": 5000,
+    "mongodbURL": "mongodb+srv://daryn:oPjirKokKc9Kxdjv@cluster0.p1myo.mongodb.net/communalDB?retryWrites=true&w=majority",
+    "secretKey":  "Sultanscreed"
+}   
